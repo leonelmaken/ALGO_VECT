@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1624036197 source:c:\users\hp15\documents\algo_vect\main.c
+	<stdio.h>
+	<stdlib.h>
+
